@@ -1,1 +1,2 @@
-Viking Bot
+# VIKING BOT
+v 0.2
